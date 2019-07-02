@@ -1,0 +1,29 @@
+{
+  "name": "@fiote/firecontrol",
+  "version": "0.0.1",
+  "description": "NPM module to set up a nodejs express hook so you can manage your firewall remotely.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiote/firecontrol.git"
+  },
+  "main": "firecontrol.js",
+  "keywords": [
+    "npm",
+    "nodejs",
+    "express",
+    "firewall"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "bugs": {
+    "url": "https://github.com/fiote/firecontrol/issues"
+  },
+  "homepage": "https://github.com/fiote/firecontrol#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fiote"
+}
